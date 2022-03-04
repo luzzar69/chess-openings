@@ -175,6 +175,9 @@ C19	French Defense: Winawer Variation, Poisoned Pawn Variation, Paoli Variation	
 C19	French Defense: Winawer Variation, Positional Variation	1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3	e2e4 e7e6 d2d4 d7d5 b1c3 f8b4 e4e5 c7c5 a2a3 b4c3 b2c3 g8e7 g1f3	rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P2N2/2P2PPP/R1BQKB1R b KQkq -
 C20	Barnes Opening: Walkerling	1. f3 e5 2. e4 Nf6 3. Bc4	f2f3 e7e5 e2e4 g8f6 f1c4	rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5P2/PPPP2PP/RNBQK1NR b KQkq -
 C20	Bongcloud Attack	1. e4 e5 2. Ke2	e2e4 e7e5 e1e2	rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPKPPP/RNBQ1BNR b kq -
+C20 Bongcloud Attack: Zelenskyy Defense 1. e4 e5 2. Ke2 Ke7 e2e4 e7e5 e1e2 e8e7 rnbq1bnr/ppppkppp/8/4p3/4P3/8/PPPPKPPP/RNBQ1BNR w - -
+C20 Bongcloud Attack: Zelenskyy Defense, Carlsen-Nakamura Variation 1. e4 e5 2. Ke2 Ke7 3. Ke1 Ke8  e2e4 e7e5 e1e2 e8e7 e2e1 e7e8 rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w - -
+C20 Bongcloud Attack: Zelenskyy Defense, Fedoseev-Matlakov Variation  1. e4 e5 2. Ke2 Ke7 3. Kf3 Kf6  e2e4 e7e5 e1e2 e8e7 e2f3 e7f6 rnbq1bnr/pppp1ppp/5k2/4p3/4P3/5K2/PPPP1PPP/RNBQ1BNR w - -
 C20	Center Game	1. e4 e5 2. d4	e2e4 e7e5 d2d4	rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -
 C20	English Opening: The Whale	1. e4 e5 2. c4	e2e4 e7e5 c2c4	rnbqkbnr/pppp1ppp/8/4p3/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq -
 C20	King's Pawn Game	1. e4 e5	e2e4 e7e5	rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -
